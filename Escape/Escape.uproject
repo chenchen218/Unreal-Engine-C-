@@ -82,5 +82,9 @@
 			"Name": "JWT",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
